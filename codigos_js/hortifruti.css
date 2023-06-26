@@ -1,0 +1,24 @@
+body{
+    background-color: gray;
+    color: white;
+}
+p{
+    color: thistle;
+}
+h1{
+    color: blanchedalmond;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.titulo_prod{
+    font-size: 22px;
+    font-family: 'Segoe UI';
+    color: black saddlebrown;
+}
+
+.prod{
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color: whitesmoke;
+}
